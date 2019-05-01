@@ -4,7 +4,8 @@ FTC 14382 (CC4H) Detroit 2019 FTC World Championship videos and commentary.
 [Match Results detail for Ochoa](https://ftcscores.com/event/l0tzuPzH)
 
 There are no log files because when we stopped using Vuforia, the software started
-spamming the log system with messages. The log files are limited in size, so all
+spamming the log system with messages. The log files are limited in size, so all the good
+data was pushed out by the spam.
 
 ## Our Matches:
 

@@ -35,7 +35,7 @@ Blue Left (depot) auto: 70 (land, sample, claim)
 
 ## Q-23
 
-Didn't complete. We lost connectivity to the hub. This is the sort of USB issue that we've seen before. 
+Didn't compete. We lost connectivity to the hub. This is the sort of USB issue that we've seen before. 
 
 It may be due to static discharge. The robot was fine after the phones were rebooted. Unfortunately, the FTA (Field Technical Advisor)
 didn't try rebooting the phones.

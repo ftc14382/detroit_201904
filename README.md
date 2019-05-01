@@ -1,4 +1,5 @@
 # detroit_201904
+
 FTC 14382 (CC4H) Detroit 2019 FTC World Championship videos and commentary.
 
 [Match Results detail for Ochoa](https://ftcscores.com/event/l0tzuPzH)
@@ -6,6 +7,10 @@ FTC 14382 (CC4H) Detroit 2019 FTC World Championship videos and commentary.
 There are no log files because when we stopped using Vuforia, the software started
 spamming the log system with messages. The log files are limited in size, so all the good
 data was pushed out by the spam.
+
+Our autonomous was designed to act differently depending on whether we start on a crater corner or a depot corner.
+For depot corners, we tried to: land, sample, and claim (70 points). For crater corners, we tried to: land, sample, and park (65 points).
+With the exception of Q-23 (where we didn't compete) and Q-123 the autonomous code worked as planned.
 
 ## Our Matches:
 
@@ -33,7 +38,7 @@ Blue Left (depot) auto: 70 (land, sample, claim)
 Didn't complete. We lost connectivity to the hub. This is the sort of USB issue that we've seen before. 
 
 It may be due to static discharge. The robot was fine after the phones were rebooted. Unfortunately, the FTA (Field Technical Advisor)
-didn't try revooting the phones.
+didn't try rebooting the phones.
 
 ## Q-43 
 
